@@ -29,4 +29,4 @@ Game ini mendukung **indikator pemenang**, **cek hasil seri**, dan **reset perma
 ---
 
 ## Preview web
-Go(https://tic-tac-toe-ziran.netlify.app/)
+Go[https://tic-tac-toe-ziran.netlify.app/]
