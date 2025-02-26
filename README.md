@@ -24,6 +24,6 @@ Game ini mendukung **indikator pemenang**, **cek hasil seri**, dan **reset perma
 ---
 
 ## 🖥️ Preview web
-[![Tic-Tac-Toe Screenshot](previewgame.png)](https://tic-tac-toe-ziran.netlify.app/)
+[![Tic-Tac-Toe Screenshot](previewgame.png)](https://tic-tac-toe-zirangame.netlify.app/)
 ---
 
